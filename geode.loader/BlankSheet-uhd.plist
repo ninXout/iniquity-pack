@@ -1149,16 +1149,12 @@
 		<dict>
 			<key>format</key>
 			<integer>3</integer>
-			<key>pixelFormat</key>
-			<string>RGBA8888</string>
-			<key>premultiplyAlpha</key>
-			<false/>
 			<key>realTextureFileName</key>
-			<string>BlankSheet-uhd.png</string>
+			<string>geode.loader/BlankSheet-uhd.png</string>
 			<key>size</key>
-			<string>{1819,1835}</string>
+			<string>{1751,2040}</string>
 			<key>textureFileName</key>
-			<string>BlankSheet-uhd.png</string>
+			<string>geode.loader/BlankSheet-uhd.png</string>
 		</dict>
 	</dict>
 </plist>
